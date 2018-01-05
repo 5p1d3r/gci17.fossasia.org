@@ -10,7 +10,7 @@
   facebook: mariobehling
   lat: 52.520007
   lng: 13.404954
-  
+
 - name: Sumedh Nimkarde
   github: sumedh123
   image: sumedh.jpeg
@@ -19,6 +19,11 @@
   lat: 21.170240
   lng: 72.831061
 
+- name: Nikit Bhandari
+  github: nikit19
+  image: nikit.jpeg
+  twitter: Nikit Bhandari
+
 - name: Hong Phuc Dang
   github: hpdang
   image: hpdang.jpg
@@ -26,11 +31,14 @@
   facebook: hpdang
   lat: 1.352083
   lng: 103.819836
-  
-- name: Louis Gagnon
-  github: louisgag
-  image: LouisGagnon.jpg
-  twitter: louisgagnoncom
+
+- name: Mohit Sharma
+  github: ms10398
+  image: mohitsharma.png
+  twitter: MohitSh93319185
+  facebook: ms10398
+  lat: 30.733315
+  lng: 76.779418
 
 - name: Harshit Prasad
   github: harsit98
@@ -40,13 +48,27 @@
   lat: 26.934855
   lng: 75.924894
 
+- name: Akshat Garg
+  github: akshatnitd
+  image: agarg.jpg
+  blog: aspirewithmeblog.wordpress.com
+  twitter: tweet_akshat
+  Linkedin: akshatnitd
+  lat: 27.0360
+  lng: 88.2627
+
+- name: Louis Gagnon
+  github: louisgag
+  image: LouisGagnon.jpg
+  twitter: louisgagnoncom
+
 - name: Parth Shandilya
   github: ParthS007
   image: parths007.jpg
   twitter: shandilyaparth1
   facebook: shandilyaparth
   lat: 26.9124
-  long: 75.7873
+  lng: 75.7873
 
 - name: Isuru Abeywardana
   github: isuruAb
@@ -67,6 +89,14 @@
   image: royalharsh.jpg
   lat: 20.593684
   lng: 78.962880
+
+- name: Zameer Ul Haque
+  github: zamhaq
+  image: zamhaq.jpeg
+  twitter: haquezameer
+  blog: zamhaq.github.io/blog/
+  lat: 13.128464
+  lng: 77.587308
 
 - name: Vaibhav Singh
   github: vaibhavsingh97
@@ -109,12 +139,6 @@
   lat: 17.385044
   lng: 78.486671
 
-- name: Mohit Sharma
-  github: ms10398
-  image: mohitsharma.png
-  lat: 30.733315
-  lng: 76.779418
-
 - name: Ashwani Kumar
   github: ashwanidv100
   image: ashwanidv100.jpeg
@@ -145,28 +169,33 @@
   twitter: Anshumaniac12
   lat: 23.233086
   lng: 72.651634
- 
+
 - name: Rahul Tiwari
   github: invinciblycool
   image: Rahul_Tiw.jpg
   twitter: invinciblycool
   lat: 26.912434
   lng: 75.787271
-  
-- name: Nguyen Vu Hung 
+
+- name: Nguyen Vu Hung
   image: hung.jpg
   github: vuhung
   facebook: nguyenvuhung
   lat: 21.027764
   lng: 105.834160
- 
+
 - name: Avi Aryan
   image: avi.jpg
   twitter: aviaryan123
   github: aviaryan
+
+- name: Sayan Chowdhury
+  image: sayanchowdhury.jpeg
+  twitter: yudocaa
+  github: sayanchowdhury
   lat: 23.215635
   lng: 72.636941
-  
+
 - name: Suneet Srivastava
   github: codedsun
   image: suneet.jpg
@@ -176,11 +205,6 @@
   lat: 28.669156
   lng: 77.453758
 
-- name: Zameer Ul Haque
-  github: zamhaq
-  image: zamhaq.jpeg
-  twitter: haquezameer
-  
 - name: Yash Ladha
   github: yashLadha
   image: Yash.jpg
@@ -188,7 +212,7 @@
   twitter: yashLadha_
   lat: 23.215635
   lng: 72.636941
-  
+
 - name: Vibhor Verma
   github: vibhcool
   image: vibhor.jpg
@@ -201,3 +225,44 @@
   image: manish.jpg
   lat: 28.682062
   lng: 77.321622
+
+- name: Rupav Jain
+  github: rupav
+  image: rupav.jpg
+  lat: 28.6687
+  lng: 77.1019
+
+- name: Tarun Kumar
+  github: meets2tarun
+  image: meets2tarun.jpg
+  lat: 27.133991
+  lng: 81.961897
+
+- name: Shubham Padia
+  github: shubham-padia
+  twitter: shubham_p98
+  image: shubham-padia.jpg
+  lat: 22.303894
+  lng: 70.802160
+  
+- name: Sanskar Jethi
+  github: stealthanthrax
+  image: sanskar.jpg
+  twitter: sansyrox
+  facebook: sanskar.jethi
+  lat: 28.6
+  lng: 77.3
+  
+- name: Jihye Sofia Seo
+  github: jihyeseo
+  image: jihye.jpeg
+  twitter: jihyeseodr
+  lat: 13.405
+  lng: 52.52
+
+- name: Ayush Gupta
+  github: agbilotia1998
+  twitter: agbilotia1998
+  image: Ayush.jpeg
+  lat: 25.4275
+  lng: 81.7728
